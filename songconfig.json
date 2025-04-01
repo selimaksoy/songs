@@ -1,0 +1,85 @@
+[
+  {
+      "path": "MORGENSHTERN.mp3",
+      "name": "Morgenshtern, DJ Smash",
+      "bmp": 106,
+      "startTime": 0.05,
+      "diamonds": 0,
+      "type": "OPEN",
+      "closerTiles": 0,
+      "tags": "POPULAR, EDM, RapidJump",
+      "theme": 1
+    },  
+    {
+      "path": "MyFirstNoise.mp3",
+      "name": "Mischa the Band III - My First Noise",
+      "bmp": 160,
+      "startTime": 0.05,
+      "diamonds": 100,
+      "type": "OPEN",
+      "tags": "POPULAR, EDM, NEW",
+      "theme": 2
+    },    
+    {
+      "path": "WeDontPlay.mp3",
+      "name": "Tadz - We Don't Play",
+      "bmp": 130,
+      "startTime": 0.05,
+      "diamonds": 0,
+      "type": "OPEN",
+      "tags": "POPULAR, EDM, NEW",
+      "theme": 3
+    },
+    {
+      "path": "Roller-skate.mp3",
+      "name": "Jahzzar - Roller-skate",
+      "bmp": 130,
+      "startTime": 0.05,
+      "diamonds": 100,
+      "type": "OPEN",
+      "tags": "POPULAR, EDM, NEW",
+      "theme": 4
+    },    
+    {
+      "path": "Extraordinary.mp3",
+      "name": "Tadz - Extraordinary",
+      "bmp": 130,
+      "startTime": 0.05,
+      "diamonds": 100,
+      "type": "OPEN",
+      "tags": "POPULAR, EDM, NEW",
+      "theme": 1
+    },
+    {
+      "path": "FallingForYou.mp3",
+      "name": "Simon Mathewson - Falling For You",
+      "bmp": 130,
+      "startTime": 0.05,
+      "diamonds": 100,
+      "type": "OPEN",
+      "tags": "POPULAR, EDM, NEW",
+      "theme": 1
+    },  
+    {
+      "path": "MutantClub.mp3",
+      "name": "HoliznaCC0 - Mutant Club",
+      "bmp": 130,
+      "startTime": 0.05,
+      "diamonds": 100,
+      "type": "OPEN",
+      "tags": "POPULAR, EDM, NEW",
+      "theme": 1
+    },
+    {
+      "path": "FallForYou.mp3",
+      "name": "Double-F the King - Fall For You",
+      "bmp": 120,
+      "startTime": 1,
+      "diamonds": 0,
+      "type": "OPEN",
+      "tags": "POPULAR, NEW, EDM",
+      "theme": 1
+    }   
+
+    
+]
